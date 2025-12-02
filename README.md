@@ -45,21 +45,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay12ch&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay12ch&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhay12ch&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Abhay12ch&theme=radical&row=1&column=6)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay12ch&theme=radical)
 
 ## 🔗 Connect with Me
 
@@ -67,5 +53,3 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhaychaudhary109@gmail.com)
 
 ---
-
-⭐️ From [Abhay12ch](https://github.com/Abhay12ch)
