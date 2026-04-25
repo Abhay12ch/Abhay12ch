@@ -7,7 +7,7 @@ I build things at the intersection of **AI and full-stack development** - from R
 ## 🔨 What I'm Building
 
 ### [ContractGuard](https://github.com/Abhay12ch/ContractGuard) - AI-Powered Contract Analysis
-Upload a contract, get back a plain-language summary, a risk score (0-100), flagged clauses (penalties, non-compete, auto-renewal), and an interactive Q&A over the document. Built with **Python · FastAPI · LangChain · FAISS · Gemini API · Streamlit**. Deployed on Render.
+Upload a contract, get back a plain-language summary, a risk score (0-100), flagged clauses (penalties, non-compete, auto-renewal), and an interactive Q&A over the document. Built with **Python · FastAPI · LangChain · FAISS · Gemini API · Streamlit**. Deployed on Vercel.
 
 > *Built for a hackathon. Solves a real problem: most people sign contracts they don't fully understand.*
 
