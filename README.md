@@ -1,44 +1,58 @@
-# Hi there, I'm Abhay Choudhary 👋
+# Hey, I'm Abhay Choudhary 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
+I build things at the intersection of **AI and full-stack development** - from RAG-powered document analysis tools to production-ready REST APIs. Based in Meerut, India. Open to remote work and freelance projects.
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently working on ContractGuard, an AI and RAG powered platform
-- 🌱 I'm currently learning DSA, Langchain and vectorDBs
-- 👯 I'm looking to collaborate on Web Dev Projects and Agentic Automation
-- 💬 Ask me about Python, Java, MySQL, and Agentic Automation
-- 📫 How to reach me: abhaychoudhary0512@gmail.com
-- 💭 Thought: It's not over till it's over
+## 🔨 What I'm Building
 
-## 🛠️ Tech Stack
+### [ContractGuard](https://github.com/Abhay12ch/ContractGuard) - AI-Powered Contract Analysis
+Upload a contract, get back a plain-language summary, a risk score (0-100), flagged clauses (penalties, non-compete, auto-renewal), and an interactive Q&A over the document. Built with **Python · FastAPI · LangChain · FAISS · Gemini API · Streamlit**. Deployed on Render.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+> *Built for a hackathon. Solves a real problem: most people sign contracts they don't fully understand.*
 
+### [TaskFlow API](https://github.com/Abhay12ch/assignment-for-primetradeai) - Production REST API with Auth & RBAC
+A full-stack task management system with JWT authentication, role-based access control, Swagger docs, rate limiting, and a React dashboard with a dark glassmorphism UI. **Node.js · Express · SQLite · Sequelize · React · Vite**.
 
+> *Built to production standards - API versioning, global error handling, input validation, helmet security headers.*
 
-## 🔗 Connect with Me
+### [Bus Reservation System](https://github.com/Abhay12ch/Bus-reservation-system)
+A full-featured bus booking system with seat selection, reservation management, and route handling. **JavaScript · Node.js**.
+
+---
+
+## 🧠 What I Work With
+
+**Languages** - Python · JavaScript · TypeScript · Java · C
+
+**AI / ML** - LangChain · FAISS · Vector DBs · RAG pipelines · Gemini API · TensorFlow · NumPy · Pandas
+
+**Backend** - Node.js · Express · FastAPI · Spring · REST APIs · JWT · Swagger
+
+**Frontend** - React · HTML · CSS · Streamlit
+
+**Databases** - PostgreSQL · MySQL · MongoDB · SQLite
+
+**Tools** - Git · AWS · UiPath · Render
+
+---
+
+## 📌 Right Now
+
+- 🔭 Actively working on **ContractGuard** - expanding the AI features and improving the UI
+- 📖 Deep-diving into **DSA**, **LangChain agents**, and **vector databases**
+- 🤝 Looking for **remote roles** or **freelance projects** in AI/backend/full-stack
+- 💬 Happy to talk about Python, agentic automation, or building AI-powered tools
+
+---
+
+## 📫 Let's Talk
+
+If you're hiring, building something interesting, or just want to collaborate - reach out.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-choudhary-baa813193)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhaychoudhary0512@gmail.com)
 
 ---
+
+*"It's not over till it's over."*
